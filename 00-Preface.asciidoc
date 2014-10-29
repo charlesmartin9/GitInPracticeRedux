@@ -1,2 +1,5 @@
 = Git In Practice
+
 The hotly anticipated sequel to Git Through Praxis. Testing. Testing.
+
+
